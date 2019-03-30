@@ -17,9 +17,7 @@ func multiple(a,b string)(string, string){
 func main(){
   var num1, num2 float64 = 10,21
   fmt.Println(adder(num1,num2))
-
   fmt.Println("PI: ", PI)
-
   fmt.Println(multiple("Bruce", "Wayne"))
 
   //typecasting example
